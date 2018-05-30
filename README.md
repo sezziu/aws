@@ -5,7 +5,7 @@ python script to update EC2 Security Group with Github IP range. It is used in m
 
 ### Usage:
 
-```python sg_github_ip_range.py```
+```$ python sg_github_ip_range.py```
 
 Put this script in crontab to check when Github ip range changes. Ex. every hour:
 
